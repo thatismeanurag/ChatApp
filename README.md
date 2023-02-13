@@ -22,6 +22,8 @@ A realtime chatting application for chating with your friends /
 
 <h4>$ python3 -m pip install -U channels["daphne"] </h4>
 
+5 - asgi <h4>asgi is mandatory as websocket is no more supported on wsgi </h4>
+
 Install all the dependencies and then type 
 
 <h4>$ Python3 manage.py runserver </h4> 
