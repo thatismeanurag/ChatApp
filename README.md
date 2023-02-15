@@ -1,5 +1,5 @@
 # ChatApp
-# Its made for ubuntu but can be run on Window with little tweak
+# Its made for ubuntu but can be run on Windows with little tweak
 A realtime chatting application for chating with your friends /
 
   Folowing are the dependency 
